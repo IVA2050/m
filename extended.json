@@ -1,0 +1,34 @@
+{ 
+      " información " : { 
+        " url_png_icon_64x64 ":"https://raw.githubusercontent.com/Caslu18/m/main/logo64_64.png", 
+        " url_png_logo " : "https://raw.githubusercontent.com/Caslu18/m/main/logo46KB%20(1).png", 
+        " ubicación " : " Cuenca, ECUADOR " , 
+          " social " : { 
+              " twitter_handle " : "EVAPOOL", 
+              " facebook_handle " : "EvapoolPooleva", 
+              " telegram_handle " : "" 
+             }, 
+        " empresa " : { 
+            " nombre " : " " , 
+            " addr " : " " , 
+            " ciudad " : " " , 
+            " país " : " " , 
+            " company_id " : " " , 
+            " vat_id " : " " 
+        }, 
+        " acerca de " : { 
+            " yo " : " 100% Ecuatoriano y orgullosos de pertenercer a la familia de CARDANO. " , 
+            " servidor " : " Red de 8 servidores de 8GB, ubicados en Cuenca - Ecuador. " , 
+            " empresa " : " " 
+        } 
+    }, 
+    " my-pool-ids " : { 
+        " 0 " : "4f57b82ff7024b1712ff9b02d1bf8df1ef23db589d94fd2be0b61810",
+        "member_since": "2021-08-11",
+        "name": "EVA", 
+        " 1 " : ""
+    }, 
+    " telegram-admin-handle " : { 
+        " 0 " : "EVAPOOL" 
+    } 
+}
